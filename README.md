@@ -97,8 +97,8 @@ O projeto original apresenta um código em terraform responsável por provisiona
 
 ### 4. **Modularização do código**:
    - Para facilitar a manutenção a reusabilidade do código, o arquivo main foi dividido em outros arquivos que podem ser geridos de forma idependente. Essa nova organização de arquivos garante uma maior clareza sobre o projeto em geral, além de facilitar os processos de manutenção e teste.
-``
-Desafio_DevOps/
+
+```Desafio_DevOps/
    ├── main.tf            # Definição dos recursos
    ├── variables.tf       # Variáveis personalizáveis
    ├── outputs.tf         # Saídas dos recursos
