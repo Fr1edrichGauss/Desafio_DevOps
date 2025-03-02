@@ -1,4 +1,3 @@
-#Infraestrutura AWS com Terraform.
 O projeto original apresenta um código em terraform responsável por provisionar a configuração de infraestrutura necessária para uma instância EC2 Debian, utilizando recursos e serviços da plataforma AWS. Observando oportunidades de melhoria no código fornecido, foram realizadas algumas mudanças pertinentes.
 
 ## Descrição Técnica Original
